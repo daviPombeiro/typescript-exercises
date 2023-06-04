@@ -1,0 +1,1002 @@
+[
+    {
+      "Status": "Payed",
+      "ID": 32323221,
+      "Date": "01/09/2022 01:21",
+      "Name": "Owen Hill",
+      "Payment Method": "Credit Card",
+      "Email": "o.hill@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323222,
+      "Date": "01/09/2022 01:26",
+      "Name": "Miranda Higgins",
+      "Payment Method": "Invoice",
+      "Email": "m.higgins@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323223,
+      "Date": "01/09/2022 11:15",
+      "Name": "Richard Turner",
+      "Payment Method": "Credit Card",
+      "Email": "r.turner@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323224,
+      "Date": "01/09/2022 12:58",
+      "Name": "Cherry Casey",
+      "Payment Method": "Credit Card",
+      "Email": "c.casey@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323225,
+      "Date": "01/09/2022 13:01",
+      "Name": "Kellan Phillips",
+      "Payment Method": "Credit Card",
+      "Email": "k.phillips@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323226,
+      "Date": "01/09/2022 13:18",
+      "Name": "Abraham Barnes",
+      "Payment Method": "Credit Card",
+      "Email": "a.barnes@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323227,
+      "Date": "02/09/2022 07:11",
+      "Name": "Haris Evans",
+      "Payment Method": "Invoice",
+      "Email": "h.evans@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323228,
+      "Date": "02/09/2022 08:01",
+      "Name": "Isabella Campbell",
+      "Payment Method": "Credit Card",
+      "Email": "i.campbell@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323229,
+      "Date": "02/09/2022 08:23",
+      "Name": "Edward Ferguson",
+      "Payment Method": "Credit Card",
+      "Email": "e.ferguson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323230,
+      "Date": "02/09/2022 08:44",
+      "Name": "Maddie Farrell",
+      "Payment Method": "Invoice",
+      "Email": "m.farrell@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323231,
+      "Date": "02/09/2022 11:50",
+      "Name": "Ashton Johnson",
+      "Payment Method": "Credit Card",
+      "Email": "a.johnson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323232,
+      "Date": "05/09/2022 20:35",
+      "Name": "Alexia Chapman",
+      "Payment Method": "Invoice",
+      "Email": "a.chapman@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323233,
+      "Date": "05/09/2022 20:37",
+      "Name": "Sawyer Myers",
+      "Payment Method": "Invoice",
+      "Email": "s.myers@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323234,
+      "Date": "05/09/2022 20:41",
+      "Name": "Abraham Ellis",
+      "Payment Method": "Credit Card",
+      "Email": "a.ellis@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323235,
+      "Date": "05/09/2022 22:08",
+      "Name": "Justin Harper",
+      "Payment Method": "Credit Card",
+      "Email": "j.harper@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323236,
+      "Date": "05/09/2022 22:30",
+      "Name": "Lucia Farrell",
+      "Payment Method": "Invoice",
+      "Email": "l.farrell@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323237,
+      "Date": "06/09/2022 08:07",
+      "Name": "Darcy Higgins",
+      "Payment Method": "Invoice",
+      "Email": "d.higgins@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323238,
+      "Date": "06/09/2022 11:07",
+      "Name": "Andrew Casey",
+      "Payment Method": "Credit Card",
+      "Email": "a.casey@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323239,
+      "Date": "06/09/2022 11:24",
+      "Name": "Adrian Owens",
+      "Payment Method": "Credit Card",
+      "Email": "a.owens@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323240,
+      "Date": "06/09/2022 12:04",
+      "Name": "Richard Williams",
+      "Payment Method": "Invoice",
+      "Email": "r.williams@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323241,
+      "Date": "06/09/2022 14:50",
+      "Name": "Alissa Walker",
+      "Payment Method": "Invoice",
+      "Email": "a.walker@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323242,
+      "Date": "06/09/2022 17:04",
+      "Name": "Bruce Spencer",
+      "Payment Method": "Credit Card",
+      "Email": "b.spencer@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323243,
+      "Date": "06/09/2022 17:06",
+      "Name": "Lyndon Bennett",
+      "Payment Method": "Credit Card",
+      "Email": "l.bennett@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323244,
+      "Date": "06/09/2022 18:32",
+      "Name": "Annabella Tucker",
+      "Payment Method": "Invoice",
+      "Email": "a.tucker@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323245,
+      "Date": "06/09/2022 18:42",
+      "Name": "Dominik Kelly",
+      "Payment Method": "Credit Card",
+      "Email": "d.kelly@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323246,
+      "Date": "07/09/2022 00:38",
+      "Name": "Lilianna Reed",
+      "Payment Method": "Credit Card",
+      "Email": "l.reed@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323247,
+      "Date": "07/09/2022 11:21",
+      "Name": "Carl Nelson",
+      "Payment Method": "Credit Card",
+      "Email": "c.nelson@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323248,
+      "Date": "07/09/2022 11:22",
+      "Name": "Elian Holmes",
+      "Payment Method": "Invoice",
+      "Email": "e.holmes@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323249,
+      "Date": "07/09/2022 12:05",
+      "Name": "Tyler Miller",
+      "Payment Method": "Invoice",
+      "Email": "t.miller@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323250,
+      "Date": "07/09/2022 12:27",
+      "Name": "Brianna Elliott",
+      "Payment Method": "Credit Card",
+      "Email": "b.elliott@email.com",
+      "Value ($)": "1600.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323251,
+      "Date": "07/09/2022 12:52",
+      "Name": "Alford Richards",
+      "Payment Method": "Credit Card",
+      "Email": "a.richards@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323252,
+      "Date": "07/09/2022 14:29",
+      "Name": "Kelsey Cunningham",
+      "Payment Method": "Credit Card",
+      "Email": "k.cunningham@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323253,
+      "Date": "07/09/2022 17:40",
+      "Name": "Daniel Wilson",
+      "Payment Method": "Credit Card",
+      "Email": "d.wilson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323254,
+      "Date": "07/09/2022 18:23",
+      "Name": "Annabella Brooks",
+      "Payment Method": "Invoice",
+      "Email": "a.brooks@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323255,
+      "Date": "07/09/2022 19:04",
+      "Name": "Justin Bailey",
+      "Payment Method": "Credit Card",
+      "Email": "j.bailey@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323256,
+      "Date": "07/09/2022 19:06",
+      "Name": "Kristian Andrews",
+      "Payment Method": "Credit Card",
+      "Email": "k.andrews@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323257,
+      "Date": "08/09/2022 16:43",
+      "Name": "Edith Anderson",
+      "Payment Method": "Credit Card",
+      "Email": "e.anderson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323258,
+      "Date": "08/09/2022 17:05",
+      "Name": "Henry Rogers",
+      "Payment Method": "Invoice",
+      "Email": "h.rogers@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323259,
+      "Date": "08/09/2022 17:33",
+      "Name": "Alexia Tucker",
+      "Payment Method": "Credit Card",
+      "Email": "a.tucker@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Reversed",
+      "ID": 32323260,
+      "Date": "08/09/2022 17:35",
+      "Name": "Alfred Taylor",
+      "Payment Method": "Credit Card",
+      "Email": "a.taylor@email.com",
+      "Value ($)": "-452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323261,
+      "Date": "08/09/2022 19:13",
+      "Name": "Sienna Taylor",
+      "Payment Method": "Credit Card",
+      "Email": "s.taylor@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323262,
+      "Date": "08/09/2022 19:30",
+      "Name": "Connie Johnson",
+      "Payment Method": "Invoice",
+      "Email": "c.johnson@email.com",
+      "Value ($)": "-",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323263,
+      "Date": "08/09/2022 22:20",
+      "Name": "Tony Johnston",
+      "Payment Method": "Credit Card",
+      "Email": "t.johnston@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323264,
+      "Date": "09/09/2022 09:44",
+      "Name": "Lyndon Armstrong",
+      "Payment Method": "Credit Card",
+      "Email": "l.armstrong@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323265,
+      "Date": "09/09/2022 12:06",
+      "Name": "Elian Cunningham",
+      "Payment Method": "Invoice",
+      "Email": "e.cunningham@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323266,
+      "Date": "12/09/2022 21:10",
+      "Name": "Alford Stewart",
+      "Payment Method": "Credit Card",
+      "Email": "a.stewart@email.com",
+      "Value ($)": "1600.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323267,
+      "Date": "12/09/2022 22:32",
+      "Name": "Dale Evans",
+      "Payment Method": "Credit Card",
+      "Email": "d.evans@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Reversed",
+      "ID": 32323268,
+      "Date": "12/09/2022 23:55",
+      "Name": "Jacob Campbell",
+      "Payment Method": "Credit Card",
+      "Email": "j.campbell@email.com",
+      "Value ($)": "-452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323269,
+      "Date": "13/09/2022 07:51",
+      "Name": "Brianna Stewart",
+      "Payment Method": "Credit Card",
+      "Email": "b.stewart@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323270,
+      "Date": "13/09/2022 09:09",
+      "Name": "Jasmine Gibson",
+      "Payment Method": "Invoice",
+      "Email": "j.gibson@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323271,
+      "Date": "13/09/2022 11:18",
+      "Name": "Alen Henderson",
+      "Payment Method": "Credit Card",
+      "Email": "a.henderson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323272,
+      "Date": "13/09/2022 11:44",
+      "Name": "Evelyn Thompson",
+      "Payment Method": "Credit Card",
+      "Email": "e.thompson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323273,
+      "Date": "13/09/2022 12:26",
+      "Name": "Jack Dixon",
+      "Payment Method": "Credit Card",
+      "Email": "j.dixon@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323274,
+      "Date": "14/09/2022 15:11",
+      "Name": "Chloe Gray",
+      "Payment Method": "Invoice",
+      "Email": "c.gray@email.com",
+      "Value ($)": "120.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323275,
+      "Date": "16/09/2022 23:21",
+      "Name": "Antony Morgan",
+      "Payment Method": "Credit Card",
+      "Email": "a.morgan@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323276,
+      "Date": "17/09/2022 01:13",
+      "Name": "Lenny Tucker",
+      "Payment Method": "Credit Card",
+      "Email": "l.tucker@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323277,
+      "Date": "17/09/2022 09:06",
+      "Name": "Daryl Mason",
+      "Payment Method": "Credit Card",
+      "Email": "d.mason@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323278,
+      "Date": "17/09/2022 10:08",
+      "Name": "James Harrison",
+      "Payment Method": "Invoice",
+      "Email": "j.harrison@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323279,
+      "Date": "17/09/2022 12:05",
+      "Name": "Heather Rogers",
+      "Payment Method": "Credit Card",
+      "Email": "h.rogers@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323280,
+      "Date": "17/09/2022 13:54",
+      "Name": "Amber Martin",
+      "Payment Method": "Credit Card",
+      "Email": "a.martin@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323281,
+      "Date": "17/09/2022 15:53",
+      "Name": "Penelope Moore",
+      "Payment Method": "Invoice",
+      "Email": "p.moore@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323282,
+      "Date": "17/09/2022 17:07",
+      "Name": "Frederick Anderson",
+      "Payment Method": "Credit Card",
+      "Email": "f.anderson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323283,
+      "Date": "17/09/2022 18:38",
+      "Name": "Gianna Perkins",
+      "Payment Method": "Credit Card",
+      "Email": "g.perkins@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323284,
+      "Date": "17/09/2022 20:23",
+      "Name": "Eleanor Williams",
+      "Payment Method": "Credit Card",
+      "Email": "e.williams@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323285,
+      "Date": "17/09/2022 20:41",
+      "Name": "Connie Perry",
+      "Payment Method": "Credit Card",
+      "Email": "c.perry@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323286,
+      "Date": "20/09/2022 12:42",
+      "Name": "Carlos Spencer",
+      "Payment Method": "Credit Card",
+      "Email": "c.spencer@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323287,
+      "Date": "20/09/2022 15:28",
+      "Name": "Arthur Brooks",
+      "Payment Method": "Invoice",
+      "Email": "a.brooks@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323288,
+      "Date": "20/09/2022 18:49",
+      "Name": "Julian Smith",
+      "Payment Method": "Credit Card",
+      "Email": "j.smith@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323289,
+      "Date": "20/09/2022 19:01",
+      "Name": "Alina Hunt",
+      "Payment Method": "Credit Card",
+      "Email": "a.hunt@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323290,
+      "Date": "20/09/2022 19:10",
+      "Name": "James Murphy",
+      "Payment Method": "Credit Card",
+      "Email": "j.murphy@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323291,
+      "Date": "20/09/2022 20:08",
+      "Name": "Brooke Lloyd",
+      "Payment Method": "Invoice",
+      "Email": "b.lloyd@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323292,
+      "Date": "20/09/2022 20:43",
+      "Name": "Carlos Ryan",
+      "Payment Method": "Credit Card",
+      "Email": "c.ryan@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323293,
+      "Date": "20/09/2022 23:00",
+      "Name": "Leonardo Cole",
+      "Payment Method": "Credit Card",
+      "Email": "l.cole@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323294,
+      "Date": "21/09/2022 20:31",
+      "Name": "Kate Spencer",
+      "Payment Method": "Credit Card",
+      "Email": "k.spencer@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323295,
+      "Date": "21/09/2022 20:31",
+      "Name": "Alan Hamilton",
+      "Payment Method": "Credit Card",
+      "Email": "a.hamilton@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323296,
+      "Date": "21/09/2022 21:25",
+      "Name": "Penelope Payne",
+      "Payment Method": "Invoice",
+      "Email": "p.payne@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323297,
+      "Date": "21/09/2022 21:26",
+      "Name": "Cherry Allen",
+      "Payment Method": "Invoice",
+      "Email": "c.allen@email.com",
+      "Value ($)": "1600.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323298,
+      "Date": "22/09/2022 08:42",
+      "Name": "Kellan Walker",
+      "Payment Method": "Invoice",
+      "Email": "k.walker@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323299,
+      "Date": "22/09/2022 09:21",
+      "Name": "Samantha Evans",
+      "Payment Method": "Invoice",
+      "Email": "s.evans@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323300,
+      "Date": "22/09/2022 09:58",
+      "Name": "Alen Andrews",
+      "Payment Method": "Credit Card",
+      "Email": "a.andrews@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323301,
+      "Date": "22/09/2022 10:29",
+      "Name": "Lenny Ross",
+      "Payment Method": "Credit Card",
+      "Email": "l.ross@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323302,
+      "Date": "22/09/2022 11:15",
+      "Name": "Maria Phillips",
+      "Payment Method": "Credit Card",
+      "Email": "m.phillips@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323303,
+      "Date": "22/09/2022 11:31",
+      "Name": "Alissa Reed",
+      "Payment Method": "Credit Card",
+      "Email": "a.reed@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323304,
+      "Date": "22/09/2022 11:32",
+      "Name": "Kate Bennett",
+      "Payment Method": "Credit Card",
+      "Email": "k.bennett@email.com",
+      "Value ($)": "250.30",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323305,
+      "Date": "26/09/2022 09:45",
+      "Name": "Tara Johnson",
+      "Payment Method": "Credit Card",
+      "Email": "t.johnson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323306,
+      "Date": "26/09/2022 10:03",
+      "Name": "Miller Harrison",
+      "Payment Method": "Invoice",
+      "Email": "m.harrison@email.com",
+      "Value ($)": "-",
+      "New Client": 0
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323307,
+      "Date": "26/09/2022 10:56",
+      "Name": "Byron Scott",
+      "Payment Method": "Credit Card",
+      "Email": "b.scott@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323308,
+      "Date": "26/09/2022 11:14",
+      "Name": "Violet Montgomery",
+      "Payment Method": "Invoice",
+      "Email": "v.montgomery@email.com",
+      "Value ($)": "452.00",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323309,
+      "Date": "26/09/2022 12:05",
+      "Name": "George Russell",
+      "Payment Method": "Credit Card",
+      "Email": "g.russell@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323310,
+      "Date": "27/09/2022 08:55",
+      "Name": "Amber Kelley",
+      "Payment Method": "Credit Card",
+      "Email": "a.kelley@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323311,
+      "Date": "27/09/2022 09:35",
+      "Name": "Sawyer Anderson",
+      "Payment Method": "Credit Card",
+      "Email": "s.anderson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323312,
+      "Date": "27/09/2022 10:00",
+      "Name": "Andrew Craig",
+      "Payment Method": "Credit Card",
+      "Email": "a.craig@email.com",
+      "Value ($)": "-",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323313,
+      "Date": "27/09/2022 10:23",
+      "Name": "Madaline Kelly",
+      "Payment Method": "Credit Card",
+      "Email": "m.kelly@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Refused by card company",
+      "ID": 32323314,
+      "Date": "27/09/2022 14:20",
+      "Name": "Dexter Moore",
+      "Payment Method": "Credit Card",
+      "Email": "d.moore@email.com",
+      "Value ($)": "-",
+      "New Client": 0
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323315,
+      "Date": "27/09/2022 14:21",
+      "Name": "Melanie Murray",
+      "Payment Method": "Credit Card",
+      "Email": "m.murray@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323316,
+      "Date": "27/09/2022 14:54",
+      "Name": "Samantha Nelson",
+      "Payment Method": "Credit Card",
+      "Email": "s.nelson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Processing Payment",
+      "ID": 32323317,
+      "Date": "30/09/2022 16:40",
+      "Name": "Aston Davis",
+      "Payment Method": "Invoice",
+      "Email": "a.davis@email.com",
+      "Value ($)": "-",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323318,
+      "Date": "30/09/2022 19:15",
+      "Name": "Sienna Johnson",
+      "Payment Method": "Credit Card",
+      "Email": "s.johnson@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323319,
+      "Date": "30/09/2022 21:56",
+      "Name": "Aiden Parker",
+      "Payment Method": "Invoice",
+      "Email": "a.parker@email.com",
+      "Value ($)": "120.00",
+      "New Client": 1
+    },
+    {
+      "Status": "Payed",
+      "ID": 32323320,
+      "Date": "30/09/2022 23:42",
+      "Name": "Kirsten Adams",
+      "Payment Method": "Credit Card",
+      "Email": "k.adams@email.com",
+      "Value ($)": "452.00",
+      "New Client": 1
+    }
+  ]

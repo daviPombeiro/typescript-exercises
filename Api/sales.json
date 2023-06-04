@@ -1,0 +1,47 @@
+[
+    [
+      "Notebook",
+      2500,
+      "2030-07-25 08:30:05",
+      {
+        "brand": "Apple",
+        "color": "gray"
+      }
+    ],
+    [
+      "Tablet",
+      1500,
+      "2030-07-24 15:30:10",
+      {
+        "brand": "Apple",
+        "color": "blue"
+      }
+    ],
+    [
+      "Notebook",
+      2100,
+      "2030-07-23 03:20:15",
+      {
+        "brand": "Microsoft",
+        "color": "green"
+      }
+    ],
+    [
+      "Smartphone",
+      1200,
+      "2030-07-22 20:45:20",
+      {
+        "brand": "Samsung",
+        "color": "gray"
+      }
+    ],
+    [
+      "Smartphone",
+      1200,
+      "2030-07-20 12:45:20",
+      {
+        "brand": "Samsung",
+        "color": "gray"
+      }
+    ]
+  ]

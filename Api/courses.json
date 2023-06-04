@@ -1,0 +1,20 @@
+[
+    {
+      "name": "HTML and CSS",
+      "hours": 40,
+      "classes": 200,
+      "free": false,
+      "tags": ["HTML", "CSS", "JavaScript", "Browser"],
+      "idClasses": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+      "level": "beginner"
+    },
+    {
+      "name": "CSS Flexbox",
+      "hours": 20,
+      "classes": 100,
+      "free": true,
+      "tags": ["display", "flex", "css", "justify-content"],
+      "idClasses": [10, 11, 12, 13, 14, 15, 16, 17],
+      "level": "advanced"
+    }
+  ]

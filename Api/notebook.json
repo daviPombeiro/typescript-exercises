@@ -1,0 +1,17 @@
+{
+    "name": "Notebook",
+    "price": 2000,
+    "description": "New notebook with 128gb of RAM.",
+    "warranty": "3",
+    "accidentInsurance": true,
+    "manufacturingCompany": {
+      "name": "Ranek",
+      "foundation": 1850,
+      "country": "Denmark"
+    },
+    "assemblerCompany": {
+      "name": "Handel",
+      "foundation": 2000,
+      "country": "Poland"
+    }
+}
