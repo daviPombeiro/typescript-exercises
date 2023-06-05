@@ -202,3 +202,6 @@ a:hover {
   * day of the week with most sales
 * Orgnaize this data in a table
 * Organize the code in small modules
+
+#### Slider
+This was a code challenge that consisted of recreating Instagram's stories slider using TypeScript.
